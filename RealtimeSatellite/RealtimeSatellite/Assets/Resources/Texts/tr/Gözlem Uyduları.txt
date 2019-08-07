@@ -1,0 +1,6 @@
+﻿- Bu uydular sivil gözlem amacıyla (çevre faciaları, harita yapımı vs.) kullanılan 
+  uydulardır. 
+- Türkiye’nin 3 gözlem uydusu bulunmaktadır; Bilsat, Rasat, Göktürk-2. Yüksek 
+  çözünürlüğe sahip İmece uydusunun 2021 de yörüngeye çıkması 
+  planlanmaktadır. 
+- Alçak Kutupsal Yörüngelerde konumludurlar. (200 ve 3000 km arası)

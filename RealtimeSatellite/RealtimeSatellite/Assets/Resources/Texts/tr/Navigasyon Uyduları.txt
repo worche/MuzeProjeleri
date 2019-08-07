@@ -1,0 +1,7 @@
+﻿- Radyo sinyalleri vasıtasıyla dünya üzerindeki mobil cihazların yerlerini GPS 
+  sayesinde tespit etmeye yarayan uydulardır. 
+- Günümüzde uçaklarda, otomobillerde hatta elde kullanımı oldukça 
+  yaygınlaşmış olan sistem sayesinde dünya üzerindeki konum birkaç metre 
+  hassasiyetiyle tespit edilebilir. 
+- Orta Kutupsal Yörüngelerde konumlandırılırlar. (3000 ve 36000 kilometre 
+  arası)

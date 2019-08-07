@@ -1,0 +1,8 @@
+﻿- These satellites are used to observe meteorological phenomena in the 
+  world. 
+- Cloudiness, Ozone The amount and concentration of glacial areas, 
+  atmospheric temperature and humidity profiles, precipitation Determination 
+  of the amount of land and sea surface temperatures, with passive detection, 
+  the ocean Wavelength, wave height, sea surface wind speed and direction 
+  determination with active sensing Can. 
+- They are positioned in Low Polar Orally. (between 200 and 3000 km)

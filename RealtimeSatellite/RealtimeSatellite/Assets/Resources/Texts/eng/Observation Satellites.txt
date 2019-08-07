@@ -1,0 +1,5 @@
+﻿- These satellites are used for civilian observation (environmental disasters,
+  map construction, etc.). Low they're positioned in Polar Orally. 
+- Turkey has 3 observation satellites (between 200 and 3000 km); Bilsat, 
+  Rasat, Göktürk-2. 
+- Imece with High resolution satellites are planned to orbit in 2021.

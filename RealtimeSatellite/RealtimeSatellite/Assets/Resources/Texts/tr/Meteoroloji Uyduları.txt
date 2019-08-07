@@ -1,0 +1,7 @@
+﻿- Bu uydular dünyadaki meteorolojik olayları gözlemlemek için kullanılırlar. 
+- Bulutluluk, ozon miktarı ve konsantrasyonu, buzul alanlarının, atmosferik 
+  sıcaklık ve nem profillerinin, yağış miktarının tespiti, kara ve deniz yüzeyi 
+  sıcaklıklarının belirlenmesi pasif algılama ile, okyanus dalga boyu, dalga 
+  yüksekliği, deniz yüzeyi rüzgar hızı ve yönünün tespiti aktif algılama ile 
+  yapabilirler. 
+- Alçak Kutupsal Yörüngelerde konumlandırılırlar. (200 ve 3000 km arası)

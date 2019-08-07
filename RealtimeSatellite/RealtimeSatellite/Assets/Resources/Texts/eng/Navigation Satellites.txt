@@ -1,0 +1,5 @@
+﻿- GPS detection of mobile devices in the world through Radio signals 
+  satellites. 
+- Nowadays, in airplanes, cars and even handheld use are very the position on the world is determined by a few meters.Be. 
+- They are positioned in the Middle Polar Orally. (between 3000 and 36000
+  kilometers)
